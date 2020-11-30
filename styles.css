@@ -99,6 +99,7 @@ body {
   outline-width: 0;
   cursor: pointer;
   padding: 13px;
+  margin-left: -13px;
   border-radius: 999px;
 }
 
